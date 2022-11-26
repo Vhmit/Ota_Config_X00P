@@ -1,1 +1,2 @@
-# Ota_Config_X00P
+# Ota config for X00P (A12)
+Lineage, Arrow and Crdroid
