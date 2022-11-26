@@ -1,0 +1,1 @@
+# Ota_Config_X00P
